@@ -14,6 +14,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner)](https://github.com/enes-dev/vue-todo)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enes-dev)  
+
 ![Profile views](https://gpvc.arturio.dev/enes-dev)  
 <!--
 **enes-dev/enes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
