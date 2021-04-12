@@ -6,8 +6,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 
+![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner)](https://github.com/enes-dev/vue-todo)
 
 ![Visitor Count](https://profile-counter.glitch.me/{enes-dev}/count.svg)
