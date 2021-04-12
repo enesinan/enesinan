@@ -8,6 +8,8 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/enes-inan-201b211a0/)
 &nbsp;
 
+Cool UI Badge
+[![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/username)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner)](https://github.com/enes-dev/vue-todo)
