@@ -8,7 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enes-dev) 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-dev)  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=enes-dev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
