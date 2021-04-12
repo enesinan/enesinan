@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on multiple projects
 - 💬 Ask me about HTML,CSS,Sass,Bootstrap,JavaScript,React,Vue,NodeJS
-- 📫 How to reach me:[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' style="margin:10px" alt='linkedin' height='40'>](https://www.linkedin.com/in/enes-inan-201b211a0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg'  style="width:5px" alt='medium' height='40'>](https://enesinann.medium.com)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'  style="width:5px" alt='twitter' height='40'>](https://twitter.com/enes_xyz)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:inane064@gmail.com)  
+- 📫 How to reach me:[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' style="margin:10px" alt='linkedin' height='40'>](https://www.linkedin.com/in/enes-inan-201b211a0/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg'  style="width:5px" alt='medium' height='40'>](https://enesinann.medium.com)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'  style="width:5px" alt='twitter' height='40'>](https://twitter.com/enes_xyz)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:inane064@gmail.com)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/enesdev)    
 
 
   
