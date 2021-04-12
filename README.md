@@ -9,6 +9,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enes-dev) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=enes-dev)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=enes-dev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
