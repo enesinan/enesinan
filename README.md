@@ -8,7 +8,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner&bg_color=black)](https://github.com/enes-dev/vue-todo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner&bg_color=#000000)](https://github.com/enes-dev/vue-todo)
 
 <!--
 **enes-dev/enes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
