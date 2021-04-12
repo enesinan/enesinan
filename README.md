@@ -7,6 +7,7 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enes-dev)  
 
 
 
@@ -14,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner)](https://github.com/enes-dev/vue-todo)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enes-dev)  
+
 
 ![Profile views](https://gpvc.arturio.dev/enes-dev)  
 <!--
