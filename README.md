@@ -7,7 +7,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/enes-inan-201b211a0/)
 &nbsp;
-<a class="icon-instagram social-button grey" href="http://instagram.com/username"></a>
+
 
 
 Cool UI Badge
