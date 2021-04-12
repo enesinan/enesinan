@@ -16,7 +16,7 @@ Readymade Badge
 Customizable Badge
 [![Medium Badge](https://img.shields.io/badge/@username-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@username)](https://medium.com/@username)
 
-<a href=”https://twitter.com/your_twitter_username_here"><img src=”https://img.shields.io/twitter/follow/your_twitter_username_here?label=Follow&style=social"></a>
+<a href=”https://twitter.com/enes.xyz"><img src=”https://img.shields.io/twitter/follow/your_twitter_username_here?label=Follow&style=social"></a>
 
 
 
