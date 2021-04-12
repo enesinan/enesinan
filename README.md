@@ -8,7 +8,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=vue-todo)](https://github.com/enes-dev/vue-todo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=react-arin)](https://github.com/enes-dev/vue-todo)
 
 <!--
 **enes-dev/enes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
