@@ -2,9 +2,9 @@
 - 🔭 I’m currently working on multiple projects
 - 💬 Ask me about HTML,CSS,Sass,Bootstrap,JavaScript,React,Vue,NodeJS
 - 📫 How to reach me:
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/enes-inan-201b211a0/)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/enes-inan-201b211a0/)  
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://enesinann.medium.com)  
-
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/enes_xyz)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/enes-inan-201b211a0/)
