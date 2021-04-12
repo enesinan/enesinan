@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/enes-inan-201b211a0/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/enes-inan-201b211a0/)
 &nbsp;
 
 Cool UI Badge
