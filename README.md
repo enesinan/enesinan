@@ -16,8 +16,7 @@ Readymade Badge
 Customizable Badge
 [![Medium Badge](https://img.shields.io/badge/@username-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@username)](https://medium.com/@username)
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/flexseth?trk=profile-badge">Seth Miller</a></div>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner)](https://github.com/enes-dev/vue-todo)
 
