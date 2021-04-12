@@ -3,7 +3,7 @@
 - 💬 Ask me about HTML,CSS,Sass,Bootstrap,JavaScript,React,Vue,NodeJS
 - 📫 How to reach me: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enes-dev&show_icons=true&theme=radical&bg_color=black)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
