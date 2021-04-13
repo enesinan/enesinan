@@ -21,7 +21,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner)](https://github.com/enes-dev/Go-port-scanner) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=vue-todo)](https://github.com/enes-dev/vue-todo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=Go-port-scanner)](https://github.com/enes-dev/Go-port-scanner) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=vue-todo)](https://github.com/enes-dev/vue-todo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enes-dev&repo=vue-todo)](https://github.com/enes-dev/vue-todo)
 
 
 
