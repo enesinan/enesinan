@@ -9,7 +9,7 @@
  
 
   
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesinan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enesinan) 
 
